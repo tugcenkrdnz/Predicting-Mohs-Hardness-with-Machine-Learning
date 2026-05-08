@@ -64,4 +64,4 @@ streamlit run app.py
 
 ## 📈 Hata Analizi
 
-Yapılan **Residual (Hata) Analizi** sonucunda, modelin hatalarının sıfır etrafında normal dağılım sergilediği ve sistematik bir hata payı (bias) barındırmadığı doğrulanmıştır.# Predicting-Mohs-Hardness-with-Machine-Learning
+Yapılan **Residual (Hata) Analizi** sonucunda, modelin hatalarının sıfır etrafında normal dağılım sergilediği ve sistematik bir hata payı (bias) barındırmadığı doğrulanmıştır.
